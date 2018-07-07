@@ -2,7 +2,7 @@ import numpy as np
 import pickle as pik 
 import tkinter as tk
 import copy
-from TicTacToe import Game, Hooman, Bot
+from TicTacToe_Game import Game, Hooman, Bot
 
 #Player1 -> hooman, Player2 -> trained bot
 #change read file***********

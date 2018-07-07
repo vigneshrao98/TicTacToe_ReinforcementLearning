@@ -1,7 +1,7 @@
 import numpy as np
 import tkinter as tk
 from TicTacToe_Board import *
-from All_Players import Bot,Hooman,Computer
+from TicTacToe_Players import Bot,Hooman,Computer
 
 
 class Game:
