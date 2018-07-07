@@ -1,4 +1,4 @@
-from TicTacToe import Game, Bot     # Classes used for Tic Tac Toe
+from TicTacToe_Game import Game, Bot     # Classes used for Tic Tac Toe
 import pickle as pik
 import numpy as np
 import tkinter as tk
